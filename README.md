@@ -1,11 +1,13 @@
- 📌
- Description: An online platform for buying and selling cars.
+📌
+ Description: An admin panel for managing products, users, and
+ sales.
  🛠
- Technologies Used: HTML, CSS, JavaScript, Backend (possibly Node.js or PHP).
+ Technologies Used: React.js
  🔹
  Features:
- Displays available cars for sale with images and prices.
- Search and filter functionality, designed with a user-centered approach.
- User and seller authentication system, enhancing security and trust.
- Optimized search filters, showcasing critical thinking.
- Collaboration with users improved communication and adaptability
+ Displays user, post, product, and revenue data.
+ Interactive table for managing products, prices, and stock.
+ Simple and user-friendly interface with a focus on accuracy and UI
+ consistency.
+ Debugging challenges enhanced my problem-solving skills.
+ Delivered on time, showcasing strong time management.
